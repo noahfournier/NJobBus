@@ -1,6 +1,6 @@
-![NJobBus GitHub](https://github.com/user-attachments/assets/e241ed78-9da3-4f4d-9f69-81410e0adfa3)
-# 🚌 NJobBus - Plugin de trajets de bus pour Nova-Life
-NJobBus est un plugin conçu pour le jeu Nova-Life, permettant aux joueurs étant dans une entreprise de transports en commun d'effectuer un trajet pour gagner de l'argent.
+![NTrajetBus GitHub](https://github.com/user-attachments/assets/2ed25c29-ef7e-4aee-a785-52d288791c34)
+# 🚌 NTrajetBus - Plugin de trajets de bus pour Nova-Life
+NTrajetBus est un plugin conçu pour le jeu Nova-Life, permettant aux joueurs étant dans une entreprise de transports en commun d'effectuer un trajet pour gagner de l'argent.
 
 ## ⭐ Fonctionnalités
 - Les employés des entreprises de transports en commun peuvent effectuer un trajet d'un point A à un point B afin de gagner un salaire
@@ -9,12 +9,12 @@ NJobBus est un plugin conçu pour le jeu Nova-Life, permettant aux joueurs étan
 ## 📖 Comment l'utiliser
 - La commande `/trajet` (réservée aux entreprises de transports en commun) permet de lancer un trajet
 - La commande `/trajetconfig` (permission 5 minimum) permet d'ouvrir le menu de configuration des arrêts
-- Le fichier `config.json` contenu dans le dossier `NJobBus` permet de configurer le salaire
-- Mettez-vous en service admin -> Appuyez sur la touche de ModKit (`P` par défaut) -> Cliquez sur "Administration" -> Cliquez sur "NJobBus Config"
+- Le fichier `config.json` contenu dans le dossier `NTrajetBus` permet de configurer le salaire
+- Mettez-vous en service admin -> Appuyez sur la touche de ModKit (`P` par défaut) -> Cliquez sur "Administration" -> Cliquez sur "NTrajetBus Config"
 
 ## 📥 Installation
-1. Téléchargez le fichier `NJobBus.dll` depuis la page des releases de ce dépôt.
-2. Placez le fichier `NJobBus.dll` dans le dossier `Plugins` de votre serveur Nova-Life.
+1. Téléchargez le fichier `NTrajetBus.dll` depuis la page des releases de ce dépôt.
+2. Placez le fichier `NTrajetBus.dll` dans le dossier `Plugins` de votre serveur Nova-Life.
 3. Assurez-vous que le serveur utilise les dernières versions de ModKit et de AAMenu pour que le plugin fonctionne correctement.
 4. Redémarrez votre serveur Nova-Life pour initialiser le plugin.
 
